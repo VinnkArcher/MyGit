@@ -1,0 +1,4 @@
+用户名：VinnkArcher
+邮箱：916611153@qq.com
+
+公钥路径： /c/Users/SONY/.ssh/id_rsa.pub.
